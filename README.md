@@ -251,3 +251,13 @@ The proposed inventory strategy enables **scalable, sustainable, and optimized i
 
 📘 **Detailed Analysis & Insights:**  
 ➡️ *Inventory Data Analysis Report.pdf*
+
+---
+
+## 🧑‍💻 Author
+
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python Developer | SQL | Power BI | Excel | Data Visualization  
+📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
+
+📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
