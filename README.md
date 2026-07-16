@@ -1,6 +1,6 @@
 # 🏢 Inventory Data Analysis & Optimization
 
-A comprehensive **end-to-end Inventory Data Analysis project** focused on identifying inefficiencies, reducing inventory costs, and improving operational decision-making using **data-driven inventory management techniques**.
+A comprehensive **End-to-End Inventory Data Analysis project** focused on identifying inefficiencies, reducing inventory costs, and improving operational decision-making using **Data-driven Inventory Management Techniques**.
 
 This project simulates a **real-world manufacturing inventory case study**, covering demand forecasting, ABC analysis, EOQ modeling, inventory turnover, lead time analysis, carrying cost evaluation, and process improvement recommendations.
 
@@ -39,9 +39,11 @@ The analysis delivers **actionable insights and a sustainable inventory strategy
 ```
 ├── README.md
 ├── requirements.txt
-├── Inventory Data Analysis Report.pdf
+│ 
+├── Docs/
+│   └── Inventory Data Analysis Report.pdf
 │
-├── visuals/
+├── Visuals/
 │   ├── 01_overall_daily_demand.png
 │   ├── 02_Monthly_Demand_Trend.png
 │   ├── 03_Top_10_High_Demand_Products.png
@@ -59,52 +61,20 @@ The analysis delivers **actionable insights and a sustainable inventory strategy
 │   ├── 15_Top_10_Items_by_Annual_Carrying_Cost.png
 │   └── 16_Top_Vendors_with_Long_Procurement_Lead_Times.png
 │
-├── notebooks/
+├── Notebooks/
 │   ├── Data Cleaning of Inventory Data.ipynb
 │   └── Inventory Data Analysis.ipynb
 │
-├── Raw_data/
-│   ├── 2017PurchasePricesDec.csv
-│   ├── BegInvFINAL12312016.csv
-│   ├── EndInvFINAL12312016.csv
-│   ├── InvoicePurchases12312016.csv
-│   ├── PurchasesFINAL12312016.csv
-│   └── SalesFINAL12312016.csv
-│
-└── Clean_data/
-    ├── Beg_Inv.csv
-    ├── End_Inv.csv
-    ├── Final_Purchase.csv
-    ├── Final_Sales.csv
-    ├── Invoice.csv
-    └── Purchase_Price.csv
+└── Data 
+    ├── Raw_data/
+    │   ├── CSV-1.zip
+    │   ├── CSV-2.zip
+    │   └── CSV-3.zip
+    └── Clean_data/
+        ├── CSV-1.zip
+        ├── CSV-2.zip
+        └── CSV-3.zip
 ```
-
----
-
-## 📂 Dataset Access (Google Drive)
-
-⚠️ **Note:** Due to GitHub file size limitations, the raw and cleaned datasets are hosted externally.
-
-🔗 **Download All Datasets (Google Drive):**  
-👉 *[https://drive.google.com/drive/folders/1PnDEPSJaZa8Pj9G5yGrA9SqJfRqSWp0w?usp=sharing]*
-
-### Folder Structure on Google Drive
-```
-Inventory_Data_Analysis_Datasets/
-├── Raw_data/
-└── Clean_data/
-```
-
-### How to Use the Data
-1. Download the dataset folder from Google Drive
-2. Place it in the project root directory
-3. Ensure folder names match exactly:
-   - `Raw_data/`
-   - `Clean_data/`
-4. Run notebooks in this order:
-   - `Data Cleaning of Inventory Data.ipynb`
-   - `Inventory Data Analysis.ipynb`
 
 ---
 
